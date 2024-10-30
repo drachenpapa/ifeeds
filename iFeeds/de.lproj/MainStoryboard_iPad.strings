@@ -1,0 +1,57 @@
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "0xe-TQ-0Um"; */
+"0xe-TQ-0Um.text" = "Subtitle";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "5D2-uy-J7I"; */
+"5D2-uy-J7I.title" = "Item";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "5eR-RS-MeR"; */
+"5eR-RS-MeR.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "8Pf-cG-MVZ"; */
+"8Pf-cG-MVZ.text" = "Title";
+
+/* Class = "IBUINavigationItem"; title = "Add a Feed"; ObjectID = "9vg-8i-hNZ"; */
+"9vg-8i-hNZ.title" = "Feed hinzufügen";
+
+/* Class = "IBUIButton"; normalTitle = "Delete preferences stored in iCloud"; ObjectID = "Arr-5F-TRD"; */
+"Arr-5F-TRD.normalTitle" = "Einstellungen in iCloud löschen";
+
+/* Class = "IBUILabel"; text = "Show iCloud Availability"; ObjectID = "EKS-g8-kT4"; */
+"EKS-g8-kT4.text" = "iCloud Synchronisation";
+
+/* Class = "IBUILabel"; text = "Enter the name for the feed"; ObjectID = "IV8-ol-eey"; */
+"IV8-ol-eey.text" = "Name des Feeds";
+
+/* Class = "IBUILabel"; text = "Enter the URL of the feed"; ObjectID = "LdF-xf-Dld"; */
+"LdF-xf-Dld.text" = "URL des Feeds";
+
+/* Class = "IBUIViewController"; title = "Detail"; ObjectID = "Mxt-X7-qq1"; */
+"Mxt-X7-qq1.title" = "Detail";
+
+/* Class = "IBUINavigationItem"; title = "iFeeds"; ObjectID = "OzE-7l-3kB"; */
+"OzE-7l-3kB.title" = "iFeeds";
+
+/* Class = "IBUINavigationItem"; title = "Articles"; ObjectID = "TyP-Da-y1N"; */
+"TyP-Da-y1N.title" = "Artikel";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "U08-Fx-sTj"; */
+"U08-Fx-sTj.text" = "Titel";
+
+/* Class = "IBUITableViewController"; title = "Master"; ObjectID = "Uxh-Rm-g7a"; */
+"Uxh-Rm-g7a.title" = "iFeeds";
+
+/* Class = "IBUIBarButtonItem"; title = "Settings"; ObjectID = "Yeq-q2-JNZ"; */
+"Yeq-q2-JNZ.title" = "Einstellungen";
+
+/* Class = "IBUIBarButtonItem"; title = "Switch Perspective"; ObjectID = "fQv-4t-nve"; */
+"fQv-4t-nve.title" = "Switch";
+
+/* Class = "IBUINavigationItem"; title = "iFeeds"; ObjectID = "lIK-VU-qeO"; */
+"lIK-VU-qeO.title" = "iFeeds";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "tzb-pM-Z43"; */
+"tzb-pM-Z43.title" = "Einstellungen";
+
+/* Class = "IBUIButton"; normalTitle = "Add"; ObjectID = "vP7-9B-Dz8"; */
+"vP7-9B-Dz8.normalTitle" = "Hinzufügen";

@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  iFeeds
+
+  Created by Henning Wrede on 19.07.13.
+  Copyright (c) 2013 Henning Wrede. All rights reserved.
+*/
+
+
+
+"addFeedAlert.title"       = "Ungültige Eingabe";
+"addFeedAlert.msg"         = "Die Eingaben sind nicht gültig.";
+"articles"                 = "Artikel";
+
+"button.back"              = "Zurück";
+"button.disable"           = "Deaktivieren";
+"button.enable"            = "Aktivieren";
+"button.ok"                = "OK";
+
+"gplus.errorText"          = "Bei der Authentifizierung mit Google Plus ist ein Fehler aufgetreten.";
+"gplus.errorTitle"         = "Google Plus Fehler";
+
+"icloud.questionAlert"     = "iCloud Synchronisation";
+"icloud.questionAlertView" = "Möchten Sie Ihre Feeds mit iCloud synchronisieren?";
+"ifeeds"                   = "iFeeds";

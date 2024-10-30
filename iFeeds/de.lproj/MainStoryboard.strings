@@ -1,0 +1,57 @@
+
+/* Class = "IBUITableViewController"; title = "iFeeds"; ObjectID = "12"; */
+"12.title" = "iFeeds";
+
+/* Class = "IBUIViewController"; title = "Feed"; ObjectID = "21"; */
+"21.title" = "Feed";
+
+/* Class = "IBUINavigationItem"; title = "FeedViewController"; ObjectID = "26"; */
+"26.title" = "FeedViewController";
+
+/* Class = "IBUINavigationItem"; title = "iFeeds"; ObjectID = "36"; */
+"36.title" = "iFeeds";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "2VU-Px-GcZ"; */
+"2VU-Px-GcZ.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Name des Feeds"; ObjectID = "2iL-9U-1Ro"; */
+"2iL-9U-1Ro.text" = "Name des Feeds";
+
+/* Class = "IBUIBarButtonItem"; title = "Switch"; ObjectID = "BXG-Fo-zFU"; */
+"BXG-Fo-zFU.title" = "Switch";
+
+/* Class = "IBUIButton"; normalTitle = "Hinzufügen"; ObjectID = "BwM-nz-BRh"; */
+"BwM-nz-BRh.normalTitle" = "Hinzufügen";
+
+/* Class = "IBUILabel"; text = "URL des Feeds"; ObjectID = "GJm-sT-dqf"; */
+"GJm-sT-dqf.text" = "URL des Feeds";
+
+/* Class = "IBUIButton"; normalTitle = "Delete preferences in iCloud"; ObjectID = "HyQ-tq-US8"; */
+"HyQ-tq-US8.normalTitle" = "Einstellungen in iCloud löschen";
+
+/* Class = "IBUILabel"; text = "Show iCloud Availability"; ObjectID = "I2Y-aL-7pV"; */
+"I2Y-aL-7pV.text" = "iCloud Synchronisation";
+
+/* Class = "IBUINavigationItem"; title = "Feed hinzufügen"; ObjectID = "TuI-uT-esZ"; */
+"TuI-uT-esZ.title" = "Feed hinzufügen";
+
+/* Class = "IBUIBarButtonItem"; title = "Settings"; ObjectID = "W2h-k4-pig"; */
+"W2h-k4-pig.title" = "Einstellungen";
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "cxp-rK-3NB"; */
+"cxp-rK-3NB.text" = "Subtitle";
+
+/* Class = "IBUILabel"; text = "Artikelname"; ObjectID = "eNz-3r-2fU"; */
+"eNz-3r-2fU.text" = "Artikelname";
+
+/* Class = "IBUINavigationItem"; title = "Settings"; ObjectID = "g5K-Bk-JPx"; */
+"g5K-Bk-JPx.title" = "Einstellungen";
+
+/* Class = "IBUILabel"; text = "Feedname"; ObjectID = "phq-AM-6qj"; */
+"phq-AM-6qj.text" = "Feedname";
+
+/* Class = "IBUINavigationItem"; title = "iFeeds"; ObjectID = "qvg-4g-1DA"; */
+"qvg-4g-1DA.title" = "iFeeds";
+
+/* Class = "IBUIBarButtonItem"; title = "Item"; ObjectID = "zvh-jr-Rsu"; */
+"zvh-jr-Rsu.title" = "Item";
